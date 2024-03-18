@@ -78,8 +78,3 @@ If nonce is valid, return `true`
 }
 ```
 
-## Other resources
-
-[CCXminer](https://github.com/cyberchain/ccxminer): Cryptonight-GPU-light miner using stratum-jsonrpc2.0-ws.
-
-[CyberChain](https://github.com/cyberchain/ccx): CyberChain client that has this protocol built-in.

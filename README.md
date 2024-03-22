@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/CyberChainXyz/stratum-jsonrpc2-ws.svg)](https://pkg.go.dev/github.com/CyberChainXyz/stratum-jsonrpc2-ws)
+
 # stratum-jsonrpc2.0-ws protocol
 
 This protocol implements the Stratum protocol using JSON-RPC 2.0 over Websockets.
